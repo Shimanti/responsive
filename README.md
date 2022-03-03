@@ -1,2 +1,2 @@
 # responsive
-Basic responsive website with HTML and CSS
+Basic responsive webpage with HTML and CSS
